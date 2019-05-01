@@ -1,0 +1,123 @@
+*{
+  box-sizing:border-box;
+}
+
+
+.top{
+  border:2px solid white;
+}
+
+img{
+  border-radius:25px;
+}
+
+h1{
+  font-size:70px;
+  padding:;
+  font-family:"brush script MT" ;
+  text-align:center;
+  color:#2528ac;
+  text-shadow:1px 1px white;
+}
+
+header{
+  background-image:url("http://prcouncil.net/wp-content/uploads/2017/02/Grey-Gradient-Background.png");
+}
+
+header nav{
+  border:2px groove white;
+  background-color:black;
+  padding-right:50px;
+}
+
+header ul{
+  font-size:20px;
+  color:white;
+  display:flex;
+  justify-content:space-between;
+}
+
+a:link {
+  text-decoration:none;
+  color:white;
+}
+
+a:visited{
+  color:white;
+}
+
+a:hover{
+  color:#2528ac;
+}
+
+a:active{
+  color:#00c997;
+}
+
+#main{
+  background-image:url("wooden-wall-1463762753dz6.jpg");
+  text-align:center;
+}
+
+.main h2 {
+  text-align:center;
+  color:#00c997;
+  text-shadow:1px 1px white;  
+}
+
+.line{
+  margin-left:100px;
+  margin-right:100px;
+  margin-top:30px;
+  display:flex;
+  justify-content:space-between;
+}
+
+.line2 {
+  margin-left:200px;
+  margin-right:200px;
+  margin-top:30px;
+  margin-bottom:30px;  
+  display:flex;
+  justify-content:space-between;
+}
+
+
+.page li{
+  font-size:20px;
+  margin-left:5px;
+  margin-right:5px;  
+  display:flex;
+}
+
+.icon li{
+
+  font-size:35px;
+  margin-left:5px;
+  margin-right:5px;
+  display:flex;
+  color:white;
+}
+
+footer nav{
+  color:white;
+  display:flex;
+  justify-content:space-between;
+  border:2px groove white;
+  background-color:black;
+  padding-right:50px;
+  
+}
+
+footer ul{
+  font-size:0px;
+  color:white;
+  display:flex;
+
+}
+
+button{
+  background:black;
+  color:white;
+  font-size:16px;
+}
