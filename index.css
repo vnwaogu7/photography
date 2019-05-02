@@ -65,6 +65,7 @@ a:active{
 }
 
 h2 {
+  margin-top:0px;
   text-align:center;
   color:#00c997;
   text-shadow:1px 1px white;  
