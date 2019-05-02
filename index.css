@@ -2,13 +2,16 @@
   box-sizing:border-box;
 }
 
+body {
+  margin:auto;
+  width:1170px;  
+}
 
 .top{
   border:2px solid white;
 }
 
 img{
-  border:3px solid white;
   border-radius:10px;
 }
 
@@ -61,7 +64,6 @@ a:active{
 }
 
 h2 {
-  font-size:18px;
   text-align:center;
   color:#00c997;
   text-shadow:1px 1px white;  
@@ -71,22 +73,20 @@ h2 {
   margin-left:100px;
   margin-right:100px;
   margin-top:30px;
+  margin-bottom:30px;  
   display:flex;
   justify-content:space-between;
 }
 
 .line2 {
-  margin-left:200px;
-  margin-right:200px;
+  margin-left:100px;
+  margin-right:100px;
   margin-top:30px;
   margin-bottom:30px;  
   display:flex;
   justify-content:space-between;
 }
 
-.p8 {
-  margin-bottom:10px;
-}
 
 .page li{
   font-size:20px;
