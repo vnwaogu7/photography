@@ -36,6 +36,8 @@ header nav{
 }
 
 header ul{
+  font-style:italic;
+  font-family:arial;  
   font-size:20px;
   color:white;
   display:flex;
@@ -117,6 +119,8 @@ footer nav{
 }
 
 footer ul{
+  font-style:italic;
+  font-family:arial;  
   font-size:0px;
   color:white;
   display:flex;
